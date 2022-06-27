@@ -1,0 +1,17 @@
+GET  http://kaymccreedy.com
+
+###
+
+GET http://wikipedia.org
+
+###
+
+GET http://anyonecanlearntocode.com
+
+###
+
+GET http://developer.mozilla.org/en-US/docs/web/http/methods
+
+###
+
+GET https://data.cityofchicago.org/resource/xzkq-xp2w.json
